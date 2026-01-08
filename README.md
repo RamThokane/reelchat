@@ -162,6 +162,4 @@ Navigate to `http://localhost:3000` in your browser.
 - Protected routes and middleware
 - CORS configuration
 
-## License
 
-MIT
